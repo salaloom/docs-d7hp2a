@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-22gasz.radarsatu88.shop/sitemap.xml
